@@ -8,7 +8,7 @@ Ingénieur en géophysique, diplômé de l'Institut des Mines de Saint-Pétersbo
 
 Mes travaux portent principalement sur les architectures cognitives, la mémoire de travail, les systèmes décisionnels, la traçabilité des décisions et la contrôlabilité des systèmes d'IA.
 
-Je privilégie une démarche expérimentale fondée sur le développement de logiciels, les tests automatisés et l'analyse des résultats, y compris lorsque les expérimentations ne confirment pas les hypothèses initiales.
+Je privilégie une démarche expérimentale fondée sur le développement de logiciels, les tests automatisés et l'analyse des résultats.
 
 ## Principaux projets
 
@@ -18,7 +18,7 @@ Développement d'une architecture cognitive autonome comprenant notamment une m�
 
 **[Consulter le dépôt AZ-Maroc-AI](https://github.com/Kader21202/AZ-Maroc-AI)**
 
-### PPS — Plateforme cognitive et documentaire
+### PPS - Plateforme cognitive et documentaire
 
 Développement de composants logiciels destinés au traitement de connaissances documentaires, à la sélection de faits pertinents et à la production de réponses assistées par intelligence artificielle.
 
@@ -26,7 +26,7 @@ Développement de composants logiciels destinés au traitement de connaissances 
 
 **[PPS-KnowledgeBase](https://github.com/Kader21202/PPS-KnowledgeBase)**
 
-### Rescue Swarm Morocco — Recherche en robotique de sauvetage
+### Rescue Swarm Morocco - Recherche en robotique de sauvetage
 
 Projet de conception d'un système de sauvetage maritime associant robotique, assistance par intelligence artificielle et mécanismes de capture douce.
 

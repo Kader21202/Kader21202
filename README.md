@@ -1,6 +1,6 @@
 # Abdelkader Azzouzi
 
-**Ingénieur de formation | Chercheur indépendant en intelligence artificielle | Maroc**
+**Ingénieur de formation - Chercheur indépendant en intelligence artificielle / Maroc**
 
 ## Présentation
 
@@ -12,7 +12,7 @@ Je privilégie une démarche expérimentale fondée sur le développement de log
 
 ## Principaux projets
 
-### AZ-Maroc-AI — Architecture cognitive expérimentale
+### AZ-Maroc-AI - Architecture cognitive expérimentale
 
 Développement d'une architecture cognitive autonome comprenant notamment une mémoire de travail, des règles de production, des mécanismes de décision et des dispositifs de provenance causale.
 
